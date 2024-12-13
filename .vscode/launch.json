@@ -8,9 +8,9 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/challange-5/target/debug/challange-5",
+            "program": "${workspaceFolder}/challange-8/target/debug/challange-8",
             "args": [],
-            "cwd": "${workspaceFolder}/challange-5"
+            "cwd": "${workspaceFolder}/challange-8"
         }
     ]
 }
