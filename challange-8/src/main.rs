@@ -1,4 +1,4 @@
-use std::{clone, collections::HashSet, fs};
+use std::fs;
 
 fn main() {
     let text_input = fs::read_to_string("./input.txt").unwrap();
